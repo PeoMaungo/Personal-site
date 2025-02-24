@@ -1,0 +1,68 @@
+body{font-family:Arial,sans-serif;
+  margin: 0;
+  padding: 0;
+ background-color: #f4f4f4;
+}
+header{
+ background-color: #32eb19;
+ color: white;
+ text-align: center;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+  nav a:hover{
+    text-decoration: underlines;
+    font-size: larger;
+}
+section{
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: white;
+  box-shadow:0 0 10px rgb(97, 236, 42);
+}
+footer {
+  text-align: center;
+  background-color: #22c92a ;
+  color: aliceblue;
+  padding: 10px;
+  margin-top: 20px;
+}
+footer a {
+  color: white;
+  text-decoration: underline;
+  margin: 0 10px;
+  font-weight: 300;
+  }
+img{
+  border-radius: 20px;
+}
+input[type=submit]{
+  background-color: rgb(39, 83, 30);
+  color: rgb(241, 255, 240);
+  padding: 10px;
+  border:none;
+  cursor: pointer;
+}
+footer a:hover{
+  text-decoration: underlines;
+  font-size: larger;
+}
+a herf{
+  text-decoration: underline;
+  color: rgb(25, 111, 20);
+}
+#sendBtn {
+  background-color: #30c51c;
+  border-radius: 5px;
+
+}
+#delBtn{
+  background-color: #df2222;
+  border-radius: 5px;
+}
